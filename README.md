@@ -62,6 +62,6 @@ As described earlier on the page, the goal is to create a web app that provides 
 ### Task 3. build and submit your app
 *NOTE:* this is very important:
 1. make sure you fork this repo and setup your web app in this repo, together with the .sql file for db schema, plus a .conf file for apache configuration for the site, also provide a little readme file to explain how this should be setup.
-  1. hint: you may also want to prepopulate some data in the database and make sure these are included in the .sql file too.
+  * hint: you may also want to prepopulate some data in the database and make sure these are included in the .sql file too.
 2. ensure it's all working on your local, commit your codes, and start a pull request on github so we can review your codes.
 3. that's it, happy coding!
