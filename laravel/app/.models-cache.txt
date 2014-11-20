@@ -1,0 +1,4 @@
+
+Guest id:integer name:string phone_number:integer
+Offers restaurant_id:integer description:string price:float min_guest:integer max_guest:integer days_avail:string timing:string active:boolean expire_on:datetime
+Offers restaurant_id:integer description:string price:float min_guest:integer max_guest:integer days_avail:string timing:string active:boolean expire_on:datetime with relation: Offers belongTo Restaurant
